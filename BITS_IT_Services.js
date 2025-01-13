@@ -2366,47 +2366,47 @@ if (reversed == null) { reversed = false; }
 	// timeline functions:
 	this.frame_0 = function() {
 		this.StorageButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-cloud-storage", "_self");
 		});
 		
 		this.AppdevButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-app-dev", "_self");
 		});
 		
 		this.RecoveryButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-disaster-recovery", "_self");
 		});
 		
 		this.SurveillanceButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-surveillance", "_self");
 		});
 		
 		this.SecurityButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-workforce-security", "_self");
 		});
 		
 		this.TeleButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-telephony", "_self");
 		});
 		
 		this.HelpdeskButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-helpdesk-sup", "_self");
 		});
 		
 		this.IntButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-business-int", "_self");
 		});
 		
 		this.HardwareButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-hardware-sup", "_self");
 		});
 		
 		this.ServerButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-servers", "_self");
 		});
 		
 		this.NetworkingButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/business-information-technology-services", "_self");
+			window.open("https://www.techneaux.com/it-services/#bits-networking", "_self");
 		});
 	}
 
