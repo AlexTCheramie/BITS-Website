@@ -2366,11 +2366,11 @@ if (reversed == null) { reversed = false; }
 	// timeline functions:
 	this.frame_0 = function() {
 		this.StorageButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/it-services/#bits-cloud-storage", "_parent");
+			window.open("https://www.techneaux.com/it-services/#bits-cloud-storage", "_blank");
 		});
 		
 		this.AppdevButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/it-services/#bits-app-dev", "_parent");
+			window.open("https://www.techneaux.com/it-services/#bits-app-dev", "_self");
 		});
 		
 		this.RecoveryButton.addEventListener("click", function(){
@@ -2378,11 +2378,11 @@ if (reversed == null) { reversed = false; }
 		});
 		
 		this.SurveillanceButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/it-services/#bits-surveillance", "_parent");
+			window.open("https://www.techneaux.com/it-services/#bits-surveillance", "top");
 		});
 		
 		this.SecurityButton.addEventListener("click", function(){
-			window.open("https://www.techneaux.com/it-services/#bits-workforce-security", "_parent");
+			window.open("https://www.techneaux.com/it-services/#bits-workforce-security");
 		});
 		
 		this.TeleButton.addEventListener("click", function(){
