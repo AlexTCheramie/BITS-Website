@@ -2367,57 +2367,57 @@ if (reversed == null) { reversed = false; }
 	this.frame_0 = function() {
 		this.StorageButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-cloud-storage", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-cloud-storage", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-cybersecurity-header", "_parent");
 		});
 		
 		this.AppdevButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-app-dev", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-app-dev", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-business-int-header", "_parent");
 		});
 		
 		this.RecoveryButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-disaster-recovery", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-disaster-recovery", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-cybersecurity-header", "_parent");
 		});
 		
 		this.SurveillanceButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-surveillance", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-surveillance", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 		
 		this.SecurityButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-workforce-security", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-workforce-security", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-cybersecurity-header", "_parent");
 		});
 		
 		this.TeleButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-telephony", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-telephony", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 		
 		this.HelpdeskButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-helpdesk-sup", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-helpdesk-sup", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 		
 		this.IntButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-business-int", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-business-int", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-business-int-header", "_parent");
 		});
 		
 		this.HardwareButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-hardware-sup", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-hardware-sup", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 		
 		this.ServerButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-servers", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-servers", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 		
 		this.NetworkingButton.addEventListener("click", function(){
 			//window.open("https://www.techneaux.com/it-services/#bits-networking", "_parent");
-			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-networking", "_parent");
+			window.open("https://techneaux-technology-services.webflow.io/it-services/#bits-managed-it-header", "_parent");
 		});
 	}
 
